@@ -24,7 +24,7 @@ Menù:
 
 Menù 1/2:
 - Prezzo: 25€
-- Pizza, antipasti, bevande incluse **oppure** Grigliata
+- Pizza **oppure** Grigliata, antipasti, bevande incluse 
 - Dolce **incluso** (devo chiedere se possono fare torta)
 - Mi devono dare ulteriori informazioni
 
