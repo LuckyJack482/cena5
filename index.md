@@ -1,6 +1,6 @@
 # Organizzazione cena di fine anno
 
-[![Modulo Google](icona_modulo)](https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link)
+[![Modulo Google](icona_modulo.png)](https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link)
 ## Cliccando sull'icona potete rispondere al questionario. Grazie
 
 ---
