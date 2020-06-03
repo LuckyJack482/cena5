@@ -24,15 +24,13 @@ Menù:
 
 Menù 1/2:
 - Prezzo: 25€
-- Pizza **oppure** Grigliata, antipasti, bevande incluse 
-- Dolce **incluso** (devo chiedere se possono fare torta)
-- Mi devono dare ulteriori informazioni
+- fiori di zucca alla ricotta, polpettine al limone, burratine,**grigliata mista di carne (oppure pizza)**, patate al forno
+- gelato 
 
 Menù 3:
 - Prezzo: 20€
-- Antipastini e primo
-- Dolce **incluso** (devo chiedere se possono fare torta)
-- Mi devono dare ulteriori informazioni
+- fiori di zucca alla ricotta, polpettine al limone, mozzarelline, capocollo, **primo piatto**
+- gelato
 
 ---
 ## Proposta ```n.3```
