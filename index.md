@@ -8,6 +8,7 @@
 ## Proposta ```n.1```
 ### Gandoli
 [Posizione location](https://g.page/lidogandoli?share)
+
 Menù:
 - Prezzo: 25€
 - Pizza, antipasti (non so bevande ecc, devo aggiornare)
@@ -18,11 +19,13 @@ Menù:
 ## Proposta ```n.2```
 ### Vecchie cantine
 [Posizione location](https://goo.gl/maps/gKRzZrbEBnZjffTr8)
+
 Menù 1/2:
 - Prezzo: 25€
 - Pizza, antipasti, bevande incluse **oppure** Grigliata
 - Dolce **incluso** (devo chiedere se possono fare torta)
 - Mi devono dare ulteriori informazioni
+
 Menù 3:
 - Prezzo: 20€
 - Antipastini e primo
@@ -34,6 +37,7 @@ Menù 3:
 ### El Cohiba 59
 
 [Posizione location](https://goo.gl/maps/h9XkVXSw44kAzSku8)
+
 Menù ignoto
 
 ---
@@ -41,4 +45,5 @@ Menù ignoto
 ### Terrazze Vibe (ex Terrazze Nautilus)
 
 [Posizione location](https://goo.gl/maps/1HFR3rxqZWWkh7S96)
+
 Menù ignoto
