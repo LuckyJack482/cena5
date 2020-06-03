@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Organizzazione cena di fine anno
 
-You can use the [editor on GitHub](https://github.com/LuckyJack482/cena5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[![Modulo Google](file qui)](https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link)
+## Cliccando sull'icona potete rispondere al questionario. Grazie
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+---
+## Proposta ´´´n.1´´´
+### Gandoli
+[Posizione location](https://g.page/lidogandoli?share)
+Menù:
+- Prezzo: 25€
+- Pizza, antipasti (non so bevande ecc, devo aggiornare)
+- Dolce escluso
+- La quota comprende i professori
 
-### Markdown
+---
+## Proposta ´´´n.2´´´
+### Vecchie cantine
+[Posizione location](https://goo.gl/maps/gKRzZrbEBnZjffTr8)
+Menù 1/2:
+- Prezzo: 25€
+- Pizza, antipasti, bevande incluse **oppure** Grigliata
+- Dolce **incluso** (devo chiedere se possono fare torta)
+- Mi devono dare ulteriori informazioni
+Menù 3:
+- Prezzo: 20€
+- Antipastini e primo
+- Dolce **incluso** (devo chiedere se possono fare torta)
+- Mi devono dare ulteriori informazioni
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+## Proposta ´´´n.3´´´
+### El Cohiba 59
 
-```markdown
-Syntax highlighted code block
+[Posizione location](https://goo.gl/maps/h9XkVXSw44kAzSku8)
+Menù ignoto
 
-# Header 1
-## Header 2
-### Header 3
+---
+## Proposta ´´´n.4´´´
+### Terrazze Vibe (ex Terrazze Nautilus)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuckyJack482/cena5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Posizione location](https://goo.gl/maps/1HFR3rxqZWWkh7S96)
+Menù ignoto
