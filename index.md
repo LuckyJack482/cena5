@@ -1,9 +1,10 @@
 # Organizzazione cena di fine anno
 
-<a href='https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link'><img alt='Condorelli' width='150 px' src='/cena5/icona_modulo.png'>
+<a href='https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link'><img alt='Modulo Google' width='150 px' src='/cena5/icona_modulo.png'>
 ## Cliccando sull'icona potete rispondere al questionario. Grazie
 
 ---
+Ultimo aggiornamento: 3 giugno, 11:00
 ---
 ## Proposta ```n.1```
 ### Gandoli
