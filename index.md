@@ -5,6 +5,7 @@
 
 ---
 Ultimo aggiornamento: 3 giugno, 11:00
+
 ---
 ## Proposta ```n.1```
 ### Gandoli
