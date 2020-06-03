@@ -1,11 +1,11 @@
 # Organizzazione cena di fine anno
 
-[![Modulo Google](file qui)](https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link)
+[![Modulo Google](icona_modulo)](https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link)
 ## Cliccando sull'icona potete rispondere al questionario. Grazie
 
 ---
 ---
-## Proposta ´´´n.1´´´
+## Proposta ```n.1```
 ### Gandoli
 [Posizione location](https://g.page/lidogandoli?share)
 Menù:
@@ -15,7 +15,7 @@ Menù:
 - La quota comprende i professori
 
 ---
-## Proposta ´´´n.2´´´
+## Proposta ```n.2```
 ### Vecchie cantine
 [Posizione location](https://goo.gl/maps/gKRzZrbEBnZjffTr8)
 Menù 1/2:
@@ -30,14 +30,14 @@ Menù 3:
 - Mi devono dare ulteriori informazioni
 
 ---
-## Proposta ´´´n.3´´´
+## Proposta ```n.3```
 ### El Cohiba 59
 
 [Posizione location](https://goo.gl/maps/h9XkVXSw44kAzSku8)
 Menù ignoto
 
 ---
-## Proposta ´´´n.4´´´
+## Proposta ```n.4```
 ### Terrazze Vibe (ex Terrazze Nautilus)
 
 [Posizione location](https://goo.gl/maps/1HFR3rxqZWWkh7S96)
