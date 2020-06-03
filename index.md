@@ -1,6 +1,6 @@
 # Organizzazione cena di fine anno
 
-[![Modulo Google](icona_modulo.png)](https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link)
+<a href='https://docs.google.com/forms/d/e/1FAIpQLSdVKWNol3yeMqBLCERNLUDzHfah12y6r8j5hA1PLSwGbqZaWQ/viewform?usp=sf_link'><img alt='Condorelli' width='150 px' src='/cena5/icona_modulo.png'>
 ## Cliccando sull'icona potete rispondere al questionario. Grazie
 
 ---
